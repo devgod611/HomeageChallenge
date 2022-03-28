@@ -44,22 +44,22 @@ This means that people can select among 24 time slots per a day if the center ha
 
 ### Center Management Tab
 > You can select a vaccinationn center in Center Management tab and add nurses to the center.
-![alt text](https://github.com/devgod611/HomageChallenge/blob/4e9afd3dad8893d2b1dc2dde32bccbc1367d6657/screenshots/1.PNG)
-![alt text](https://github.com/devgod611/HomageChallenge/blob/4e9afd3dad8893d2b1dc2dde32bccbc1367d6657/screenshots/2.PNG)
+![alt text](https://github.com/devgod611/HomeageChallenge/tree/main/screenshots/1.PNG)
+![alt text](https://github.com/devgod611/HomeageChallenge/tree/main/screenshots/2.PNG)
 
 > After you adding nurses to the center, you can schedule the working days of nurses.
 Just click the calendar icon on each nurse.
-![alt text](https://github.com/devgod611/HomageChallenge/blob/4e9afd3dad8893d2b1dc2dde32bccbc1367d6657/screenshots/3.PNG)
-![alt text](https://github.com/devgod611/HomageChallenge/blob/4e9afd3dad8893d2b1dc2dde32bccbc1367d6657/screenshots/4.PNG)
+![alt text](https://github.com/devgod611/HomeageChallenge/tree/main/screenshots/3.PNG)
+![alt text](https://github.com/devgod611/HomeageChallenge/tree/main/screenshots/4.PNG)
 
 > And then you can book a slot in "Make a Booking" Tab
-![alt text](https://github.com/devgod611/HomageChallenge/blob/4e9afd3dad8893d2b1dc2dde32bccbc1367d6657/screenshots/5.PNG)
+![alt text](https://github.com/devgod611/HomeageChallenge/tree/main/screenshots/5.PNG)
 
 > You can pick up a time slot on selected date. For example, if the center has not any nurse on the selected date, then you can't pick any time slot.
 Lets say that the center has two nurses working on the same date , 20220-03-21, then up to two people can register on the same time slot.
 
-![alt text](https://github.com/devgod611/HomageChallenge/blob/4e9afd3dad8893d2b1dc2dde32bccbc1367d6657/screenshots/6.PNG)
-![alt text](https://github.com/devgod611/HomageChallenge/blob/4e9afd3dad8893d2b1dc2dde32bccbc1367d6657/screenshots/7.PNG)
+![alt text](https://github.com/devgod611/HomeageChallenge/tree/main/screenshots/6.PNG)
+![alt text](https://github.com/devgod611/HomeageChallenge/tree/main/screenshots/7.PNG)
 
 
 
