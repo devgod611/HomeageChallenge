@@ -1,0 +1,1 @@
+export const SLOT_TIME = 60; // time slot minute
